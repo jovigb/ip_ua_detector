@@ -25,7 +25,7 @@ npm install ipip [-g]
 ## Usage
 
 ```
-./bin/parse.sh [ start | stop ]
+./parse.sh [ start | stop ]
 ```
 
 ## Http Request
