@@ -1,7 +1,7 @@
-# ip_ua_detector
+# ip_ua_parser
 
 ---
-parser ip or ua into json form by http protocal
+parser ip or ua into json form by http protocal base on nodejs
 
 ## Dependent
 
